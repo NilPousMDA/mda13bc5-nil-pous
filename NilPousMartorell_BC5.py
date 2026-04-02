@@ -2,8 +2,8 @@
 # CABECERA
 # ============================================================
 # Alumno: Nil Pous Martorell
-# URL Streamlit Cloud: PENDIENTE
-# URL GitHub: PENDIENTE
+# URL Streamlit Cloud: https://mda13bc5-nil-pous-2ue7xap7kappe3q8aqm3keb.streamlit.app/
+# URL GitHub: https://github.com/NilPousMDA/mda13bc5-nil-pous
 
 # ============================================================
 # IMPORTS
